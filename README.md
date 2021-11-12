@@ -83,6 +83,8 @@ These are sites and services that provide cloud-based writing tools for colabora
 | Microsoft Office (Cloud Features Only) | *See Microsoft* | | *Offline Microsoft office is probably safe. They can't control your computer.*|
 | Draft | Acceptable Use Policy | [Adult-Oriented Content](https://draftin.com/privacy_and_tos) | |
 | Evernote (Shared/Public) | User Guidelines | [You Won’t Use Shared or Public Notebooks to Post Objectionable Content](https://evernote.com/legal/user-guidelines) | *This restriction only exist for public notes. Should be fine for private organization* |
+| GitBook | Terms of Service | [C.2. Content Restrictions](https://policies.gitbook.com/terms#2.-content-restrictions) | |
+| World Anvil | Terms of Service | [18. Conduct](https://www.worldanvil.com/terms-of-service#19) | |
 
 ## Hosting / Cloud Platforms
 These are sites and services that enable building cloud based applications, servicers, or facilitate hosting of websites.

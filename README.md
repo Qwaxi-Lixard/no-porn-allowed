@@ -52,12 +52,15 @@ These are sites and services that facilitate the hosting of source code reposito
 | Source Forge | Terms of Use Agrement | [7. SourceForge.net Submissions/Content](https://slashdotmedia.com/terms-of-use) | |
 
 ## Organization Services
-These are sites and services that let you organize your notes and planning.
+These are sites and services that let you organize your task, notes, or design plans.
 
 | Company/Product | Found In | Section | Comment |
 |:-------:|:--------:|:-------:|:-------:|
 | Trello | *See Atlassian* | | *This one is a bit scary because a **lot** of artist rely on this one for commissions.* |
 | Todoist | *See Doist* | | |
+| Evernote (Shared/Public) | User Guidelines | [You Won’t Use Shared or Public Notebooks to Post Objectionable Content](https://evernote.com/legal/user-guidelines) | *This restriction only exist for public notes. Should be fine for private organization* |
+| GitBook | Terms of Service | [C.2. Content Restrictions](https://policies.gitbook.com/terms#2.-content-restrictions) | |
+| World Anvil | Terms of Service | [18. Conduct](https://www.worldanvil.com/terms-of-service#19) | |
 
 ## Communcation Services
 These are sites and services that let individuals or groups communicate with others or their members.
@@ -84,9 +87,7 @@ These are sites and services that provide cloud-based writing tools for colabora
 |  Google Docs, Sheets, and Slides | *See Google* | | |
 | Microsoft Office (Cloud Features Only) | *See Microsoft* | | *Offline Microsoft office is probably safe. They can't control your computer.*|
 | Draft | Acceptable Use Policy | [Adult-Oriented Content](https://draftin.com/privacy_and_tos) | |
-| Evernote (Shared/Public) | User Guidelines | [You Won’t Use Shared or Public Notebooks to Post Objectionable Content](https://evernote.com/legal/user-guidelines) | *This restriction only exist for public notes. Should be fine for private organization* |
-| GitBook | Terms of Service | [C.2. Content Restrictions](https://policies.gitbook.com/terms#2.-content-restrictions) | |
-| World Anvil | Terms of Service | [18. Conduct](https://www.worldanvil.com/terms-of-service#19) | |
+
 
 ## Hosting / Cloud Platforms
 These are sites and services that enable building cloud based applications, servicers, or facilitate hosting of websites.

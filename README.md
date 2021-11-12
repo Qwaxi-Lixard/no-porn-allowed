@@ -20,15 +20,6 @@ This is a list of companies that ban pornographic content from *all* their servi
 | Google | Abuse Program Polices and Enforcement | [Sexually Explicit Material](https://support.google.com/docs/answer/148505#zippy=%2Csexually-explicit-material) | *Artistic Purposes™ is allowed, but assume it is corporate art covered in corporate bleach. Additionally, note that it says "distribute". Storage is likely okay for the time  being.* | *Drive, Docs, Sheets, Slides, Forms, and new Sites.* |
 
 # By Survice Type
-## Image Hosting
-*None so far...*
-
-## Email List
-These are sites and services that help automate sending emails to customers and fans.
-
-| Company/Product | Found In | Section | Comment |
-|:-------:|:--------:|:-------:|:-------:|
-| MailChimp | Acceptable Use Policy | [Prohibited Content](https://mailchimp.com/legal/acceptable_use/#Prohibited_Content) | |
 
 ## Finicial Services
 These are sites and services that facilitate the transfer of money between individuals.
@@ -39,6 +30,16 @@ These are sites and services that facilitate the transfer of money between indiv
 | Stripe | Restricted Businesses | [IP Infringement, regulated or illegal products and services](https://stripe.com/gb/restricted-businesses#ip-infringement-regulated-or-illegal-products-and-services) | |
 | Wise | Acceptable Use Policy | [1.2.1 Regulated or illegal products and services](https://wise.com/us/acceptable-use-policy-inc) | |
 | Payoneer | Terms and Conditions for the Payoneer US Payment Services | [5. Prohbited Use of the service](https://www.boletomachupicchu.com/gutblt/TermsPayoneerUSPaymentService.pdf) | *Only accesible **after** signing up. A rather dubious way of implementing that Payoneer.* |
+
+## Image Hosting
+*None so far...*
+
+## Email List
+These are sites and services that help automate sending emails to customers and fans.
+
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| MailChimp | Acceptable Use Policy | [Prohibited Content](https://mailchimp.com/legal/acceptable_use/#Prohibited_Content) | |
 
 ## Code Hosting
 These are sites and services that facilitate the hosting of source code repositories for developers.

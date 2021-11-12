@@ -61,6 +61,8 @@ These are sites and services that let you organize your task, notes, or design p
 | Evernote (Shared/Public) | User Guidelines | [You Won’t Use Shared or Public Notebooks to Post Objectionable Content](https://evernote.com/legal/user-guidelines) | *This restriction only exist for public notes. Should be fine for private organization* |
 | GitBook | Terms of Service | [C.2. Content Restrictions](https://policies.gitbook.com/terms#2.-content-restrictions) | |
 | World Anvil | Terms of Service | [18. Conduct](https://www.worldanvil.com/terms-of-service#19) | |
+| Notion | Pernsonal Use Terms of Service | [2. Restrictions on Your Use of the Service](https://www.notion.so/Personal-Use-Terms-of-Service-00e4e5d0f2b9411cbee6493f15779500) | |
+
 
 ## Communcation Services
 These are sites and services that let individuals or groups communicate with others or their members.

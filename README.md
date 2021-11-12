@@ -97,6 +97,6 @@ These are sites and services that enable building cloud based applications, serv
 | Company/Product | Found In | Section | Comment |
 |:-------:|:--------:|:-------:|:-------:|
 | Azure | *See Microsoft* | | *I believe they are the only effected cloud platform.* |
-
+| WordPress | Policies & Safety | [User Guidelines](https://wordpress.com/support/user-guidelines/) | | 
 
 

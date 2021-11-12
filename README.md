@@ -7,6 +7,8 @@ This list is very much US centric. I am an American artist and game dev. As such
 
 *However*, this list is not intended to include sites or services that make clear that sexual content is banned (e.g. YouTube, Facebook, Club Panguine, etc). This is only for services that would seem to have no reason to include such a ban. Furthermore, sites that ban "obscene" or "objectionable" content are not include. Most all sites include that as a way to "cover their ass". While those clauses are a risk, this list focuses on explicit bans.
 
+Finally, I'm only human and I'm not a lawyer. So, there maybe some errors or misinterpretation of the "No Porn" clause.
+
 # Company Wide Ban
 This is a list of companies that ban pornographic content from *all* their services.
 

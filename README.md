@@ -1,6 +1,8 @@
 # No Porn Allowed
 This is a list of sites, services, or tools that ban pornographic or sexual content in any medium (writing, digital/physical illustration, photography, film, or games). While these sites may be usable via a lack of realtime moderation or lax enforcement, you should be extremely causious about becoming dependant on any of these companies.
 
+> For a list of companies, sites, and services that have openly ban porn, check out ["Yes Porn Allowed"](https://github.com/Qwaxi-Lixard/yes-porn-allowed#yes-porn-allowed).
+
 # A Brief Disclaimer 
 
 This list is very much US centric. I am an American artist and game dev. As such, this list contains either US or Global polocies. If these sites have a different stance for your country, please let me know here or on twitter (@QwaxiLixard). Moreover, I cannot exam every site that exist, so this list will always be non-exhaustive. If there is any site you feel should be added, feel free to send me a message.

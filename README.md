@@ -35,6 +35,7 @@ These are sites and services that facilitate the transfer of money between indiv
 | Telegram Bot Payments API | Bot Payment API | [What can my bot sell?](https://core.telegram.org/bots/payments#what-can-my-bot-sell) | *This restriction comes from Stripe. Their polocy renders Telegram's BPAPI unusuable for NSFW creators.* |
 | Square | General Terms of Service | [Section 5, Your Content](https://squareup.com/us/en/legal/general/ua#your-content) | |
 | Google Pay | Google Pay Policies for Businesses | [Prohbited products and services](https://pay.google.com/about/business/policy/#prohibited-products-and-services) | |
+| Cash App | Terms of Service <br/><br/> Cash For Business Payments Terms | [Section V, subsection 1, Your Content](https://cash.app/legal/us/en-us/tos#data-ownership) <br/><br/> [Section 4, Unsupported Industries](https://cash.app/legal/us/en-us/cash-payment-terms) | |
 
 
 ## Merchant Services

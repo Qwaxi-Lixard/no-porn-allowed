@@ -37,6 +37,7 @@ These are sites and services that facilitate the transfer of money between indiv
 | Google Pay | Google Pay Policies for Businesses | [Prohbited products and services](https://pay.google.com/about/business/policy/#prohibited-products-and-services) | |
 | Cash App | Terms of Service <br/><br/> Cash For Business Payments Terms | [Section V, subsection 1, Your Content](https://cash.app/legal/us/en-us/tos#data-ownership) <br/><br/> [Section 4, Unsupported Industries](https://cash.app/legal/us/en-us/cash-payment-terms) | |
 | Venmo <br> (See Comment) | User Agreement | [Content Posted by Users](https://venmo.com/legal/us-user-agreement/) | *This is actually a service made by PayPal. It's less of a service and more an alternative interface into PayPal. However, their User Agreement more directly restricts sexual content in messages attached to payments. Getting banned here will likely result in a PayPal ban. [They are extremely hostile.](https://github.com/Qwaxi-Lixard/yes-porn-allowed#finicial-services)* |
+| Adyen | Prohibited and Restricted Products & Services | [Section 2, subection Adult](https://www.adyen.com/legal/list-restricted-prohibited) | *Adult products are allowed except for fetish products. What "fetish" means is not defined.* |
 
 
 ## Merchant Services

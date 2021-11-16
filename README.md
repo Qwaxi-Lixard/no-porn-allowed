@@ -116,4 +116,4 @@ These are sites and services that enable building cloud based applications, serv
 | Azure | *See Microsoft* | | *I believe they are the only effected cloud platform.* |
 | WordPress | Policies & Safety | [User Guidelines](https://wordpress.com/support/user-guidelines/) | | 
 | Carrd | Terms of Service | [Section 5 User Content, Subsection C](https://carrd.co/docs/general/terms) | |
-
+| Weebly |  Terms of Service | [Content guidelines](https://www.weebly.com/terms-of-service) | |

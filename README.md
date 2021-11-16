@@ -47,6 +47,9 @@ These are sites and services that facilitate the transfer of money between indiv
 ## Game Hosting
 
 ## Image/Video Hosting
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| Streamable | Terms of Service | [Prohibited Use of the Service](https://terms.streamable.com/) | *I actually had videos deleted from here cause I didn't read the terms. Whoops.*
 
 ## Streaming Service
 | Company/Product | Found In | Section | Comment |

@@ -41,10 +41,19 @@ These are sites and services that facilitate the transfer of money between indiv
 | Wix Payment | Wix Payments: Prohibited Products and Services | [Section Prohibited Products or Services, Subsection Adult](https://support.wix.com/en/article/wix-payments-prohibited-products-and-services) | *See Adyen and Stripe* |
 
 ## Merchant Services
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
 
 ## Subscription Services
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
 
 ## Game Hosting
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
 
 ## Image/Video Hosting
 | Company/Product | Found In | Section | Comment |

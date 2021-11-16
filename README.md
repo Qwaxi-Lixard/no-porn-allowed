@@ -33,6 +33,8 @@ These are sites and services that facilitate the transfer of money between indiv
 | Wise | Acceptable Use Policy | [1.2.1 Regulated or illegal products and services](https://wise.com/us/acceptable-use-policy-inc) | |
 | Payoneer | Terms and Conditions for the Payoneer US Payment Services | [5. Prohbited Use of the service](https://www.boletomachupicchu.com/gutblt/TermsPayoneerUSPaymentService.pdf) | *Only accesible **after** signing up. A rather dubious way of implementing that Payoneer.* |
 | Telegram Bot Payments API | Bot Payment API | [What can my bot sell?](https://core.telegram.org/bots/payments#what-can-my-bot-sell) | *This restriction comes from Stripe. Their polocy renders Telegram's BPAPI unusuable for NSFW creators.* |
+| Square | General Terms of Service | [Section 5, Your Content](https://squareup.com/us/en/legal/general/ua#your-content) | |
+
 
 ## Merchant Services
 

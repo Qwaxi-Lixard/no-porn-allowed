@@ -34,8 +34,18 @@ These are sites and services that facilitate the transfer of money between indiv
 | Payoneer | Terms and Conditions for the Payoneer US Payment Services | [5. Prohbited Use of the service](https://www.boletomachupicchu.com/gutblt/TermsPayoneerUSPaymentService.pdf) | *Only accesible **after** signing up. A rather dubious way of implementing that Payoneer.* |
 | Telegram Bot Payments API | Bot Payment API | [What can my bot sell?](https://core.telegram.org/bots/payments#what-can-my-bot-sell) | *This restriction comes from Stripe. Their polocy renders Telegram's BPAPI unusuable for NSFW creators.* |
 
-## Image Hosting
-*None so far...*
+## Merchant Services
+
+## Subscription Services
+
+## Game Hosting
+
+## Image/Video Hosting
+
+## Streaming Service
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| Twitch.tv | Terms of Service | [Section 9 Prohibited Conduct](https://www.twitch.tv/p/en/legal/terms-of-service/#9-prohibited-conduct) | *Funnily enough, you could probably build a streaming service on their [parent company.](https://github.com/Qwaxi-Lixard/yes-porn-allowed#hosting--cloud-platforms)* |
 
 ## Email List
 These are sites and services that help automate sending emails to customers and fans.

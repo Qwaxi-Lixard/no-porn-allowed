@@ -19,7 +19,7 @@ This is a list of companies that ban pornographic content from *all* their servi
 | Atlassian | Acceptable Use Policy | [Inappropriate Content](https://www.atlassian.com/legal/acceptable-use-policy) | | *Bitbucket and Trello* |
 | Doist | Terms of Service | [4 User Content Representation and Warranties](https://doist.com/terms-of-service) | | *Todoist and Twist* |
 | Microsoft | Services Agreement | [3. Code of Conduct](https://www.microsoft.com/en-us/servicesagreement#3_codeOfConduct) | | *Office 365, One Drive, Outlook, and Azure.* |
-| Google | Abuse Program Polices and Enforcement | [Sexually Explicit Material](https://support.google.com/docs/answer/148505#zippy=%2Csexually-explicit-material) | *Artistic Purposes™ is allowed, but assume it is corporate art covered in corporate bleach. Additionally, note that it says "distribute". Storage is likely okay for the time  being.* | *Drive, Docs, Sheets, Slides, Forms, and new Sites.* |
+| Google | Abuse Program Polices and Enforcement | [Sexually Explicit Material](https://support.google.com/docs/answer/148505#zippy=%2Csexually-explicit-material) <br><br> [Prohibited products and services](https://pay.google.com/about/business/policy/#prohibited-products-and-services) | *Artistic Purposes™ is allowed, but assume it is corporate art covered in corporate bleach. Additionally, note that it says "distribute". Storage is likely okay for the time being. Furthermore, Google has multiple anti-porn clauses spread about their various terms of services, for this reason I mark all of Google as unsafe.* | *Drive, Docs, Sheets, Slides, Forms, and new Sites.* |
 
 # By Survice Type
 

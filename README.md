@@ -19,7 +19,7 @@ This is a list of companies that ban pornographic content from *all* their servi
 | Atlassian | Acceptable Use Policy | [Inappropriate Content](https://www.atlassian.com/legal/acceptable-use-policy) | | *Bitbucket and Trello* |
 | Doist | Terms of Service | [4 User Content Representation and Warranties](https://doist.com/terms-of-service) | | *Todoist and Twist* |
 | Microsoft | Services Agreement | [3. Code of Conduct](https://www.microsoft.com/en-us/servicesagreement#3_codeOfConduct) | | *Office 365, One Drive, Outlook, and Azure.* |
-| Google | Abuse Program Polices and Enforcement | [Sexually Explicit Material](https://support.google.com/docs/answer/148505#zippy=%2Csexually-explicit-material) | *Artistic Purposes™ is allowed, but assume it is corporate art covered in corporate bleach. Additionally, note that it says "distribute". Storage is likely okay for the time  being.* | *Drive, Docs, Sheets, Slides, Forms, and new Sites.* |
+| Google | Abuse Program Polices and Enforcement | [Sexually Explicit Material](https://support.google.com/docs/answer/148505#zippy=%2Csexually-explicit-material) <br><br> [Prohibited products and services](https://pay.google.com/about/business/policy/#prohibited-products-and-services) | *Artistic Purposes™ is allowed, but assume it is corporate art covered in corporate bleach. Additionally, note that it says "distribute". Storage is likely okay for the time being. Furthermore, Google has multiple anti-porn clauses spread about their various terms of services, for this reason I mark all of Google as unsafe.* | *Drive, Docs, Sheets, Slides, Forms, and new Sites.* |
 
 # By Survice Type
 
@@ -33,9 +33,37 @@ These are sites and services that facilitate the transfer of money between indiv
 | Wise | Acceptable Use Policy | [1.2.1 Regulated or illegal products and services](https://wise.com/us/acceptable-use-policy-inc) | |
 | Payoneer | Terms and Conditions for the Payoneer US Payment Services | [5. Prohbited Use of the service](https://www.boletomachupicchu.com/gutblt/TermsPayoneerUSPaymentService.pdf) | *Only accesible **after** signing up. A rather dubious way of implementing that Payoneer.* |
 | Telegram Bot Payments API | Bot Payment API | [What can my bot sell?](https://core.telegram.org/bots/payments#what-can-my-bot-sell) | *This restriction comes from Stripe. Their polocy renders Telegram's BPAPI unusuable for NSFW creators.* |
+| Square | General Terms of Service | [Section 5, Your Content](https://squareup.com/us/en/legal/general/ua#your-content) | |
+| Google Pay | Google Pay Policies for Businesses | [Prohbited products and services](https://pay.google.com/about/business/policy/#prohibited-products-and-services) | |
+| Cash App | Terms of Service <br/><br/> Cash For Business Payments Terms | [Section V, subsection 1, Your Content](https://cash.app/legal/us/en-us/tos#data-ownership) <br/><br/> [Section 4, Unsupported Industries](https://cash.app/legal/us/en-us/cash-payment-terms) | |
+| Venmo <br> (See Comment) | User Agreement | [Content Posted by Users](https://venmo.com/legal/us-user-agreement/) | *This is actually a service made by PayPal. It's less of a service and more an alternative interface into PayPal. However, their User Agreement more directly restricts sexual content in messages attached to payments. Getting banned here will likely result in a PayPal ban. [They are extremely hostile.](https://github.com/Qwaxi-Lixard/yes-porn-allowed#finicial-services)* |
+| Adyen | Prohibited and Restricted Products & Services | [Section 2, subection Adult](https://www.adyen.com/legal/list-restricted-prohibited) | *Adult products are allowed except for fetish products. What "fetish" means is not defined.* |
+| Wix Payment | Wix Payments: Prohibited Products and Services | [Section Prohibited Products or Services, Subsection Adult](https://support.wix.com/en/article/wix-payments-prohibited-products-and-services) | *See Adyen and Stripe* |
 
-## Image Hosting
-*None so far...*
+## Merchant Services
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
+
+## Subscription Services
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
+
+## Game Hosting
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| *Reasearch needed...* | N/A | N/A | |
+
+## Image/Video Hosting
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| Streamable | Terms of Service | [Prohibited Use of the Service](https://terms.streamable.com/) | *I actually had videos deleted from here cause I didn't read the terms. Whoops.*
+
+## Streaming Service
+| Company/Product | Found In | Section | Comment |
+|:-------:|:--------:|:-------:|:-------:|
+| Twitch.tv | Terms of Service | [Section 9 Prohibited Conduct](https://www.twitch.tv/p/en/legal/terms-of-service/#9-prohibited-conduct) | *Funnily enough, you could probably build a streaming service on their [parent company.](https://github.com/Qwaxi-Lixard/yes-porn-allowed#hosting--cloud-platforms)* |
 
 ## Email List
 These are sites and services that help automate sending emails to customers and fans.
@@ -100,5 +128,5 @@ These are sites and services that enable building cloud based applications, serv
 |:-------:|:--------:|:-------:|:-------:|
 | Azure | *See Microsoft* | | *I believe they are the only effected cloud platform.* |
 | WordPress | Policies & Safety | [User Guidelines](https://wordpress.com/support/user-guidelines/) | | 
-
-
+| Carrd | Terms of Service | [Section 5 User Content, Subsection C](https://carrd.co/docs/general/terms) | |
+| Weebly |  Terms of Service | [Content guidelines](https://www.weebly.com/terms-of-service) | |

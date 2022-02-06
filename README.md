@@ -53,7 +53,7 @@ These are sites and services that facilitate the transfer of money between indiv
 ## Game Hosting
 | Company/Product | Found In | Section | Comment |
 |:-------:|:--------:|:-------:|:-------:|
-| *Reasearch needed...* | N/A | N/A | |
+| **Game Jolt** | [Terms of Service](https://gamejolt.com/help/guidelines) | N/A |  [How fucking disappointing.](https://www.vice.com/en/article/k7w779/indie-hosting-platform-game-jolt-suddenly-bans-porn-games)|
 
 ## Image/Video Hosting
 | Company/Product | Found In | Section | Comment |

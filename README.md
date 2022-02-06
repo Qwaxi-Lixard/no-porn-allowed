@@ -34,7 +34,7 @@ These are sites and services that facilitate the transfer of money between indiv
 | Ko-Fi | Terms and Conditions of Use | [Acceptable Use for Creators](https://more.ko-fi.com/terms) | *A rather disappointing one to include on this list given Ko-Fi's user friendliness and original openness to NSFW artist* |
 | Payhip | [Terms of Use](https://payhip.com/terms) | Your rights, warranties and obligations | |
 | Payoneer | Terms and Conditions for the Payoneer US Payment Services | [5. Prohbited Use of the service](https://www.boletomachupicchu.com/gutblt/TermsPayoneerUSPaymentService.pdf) | *Only accesible **after** signing up. A rather dubious way of implementing that Payoneer.* |
-| PeachPay | Terms and Conditions | Account Terms, Bullet 7 | See Strip |
+| PeachPay | Terms and Conditions | Account Terms, Bullet 7 | *See Stripe* |
 | Square | General Terms of Service | [Section 5, Your Content](https://squareup.com/us/en/legal/general/ua#your-content) | |
 | Stripe | Restricted Businesses | [IP Infringement, regulated or illegal products and services](https://stripe.com/gb/restricted-businesses#ip-infringement-regulated-or-illegal-products-and-services) | |
 | Telegram Bot Payments API | Bot Payment API | [What can my bot sell?](https://core.telegram.org/bots/payments#what-can-my-bot-sell) | *This restriction comes from Stripe. Their polocy renders Telegram's BPAPI unusuable for NSFW creators.* |

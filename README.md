@@ -41,6 +41,13 @@ These are sites and services that facilitate the transfer of money between indiv
 | Venmo <br> (See Comment) | User Agreement | [Content Posted by Users](https://venmo.com/legal/us-user-agreement/) | *This is actually a service made by PayPal. It's less of a service and more an alternative interface into PayPal. However, their User Agreement more directly restricts sexual content in messages attached to payments. Getting banned here will likely result in a PayPal ban. [They are extremely hostile.](https://github.com/Qwaxi-Lixard/yes-porn-allowed#finicial-services)* |
 | Wise | Acceptable Use Policy | [1.2.1 Regulated or illegal products and services](https://wise.com/us/acceptable-use-policy-inc) | |
 | Wix Payment | Wix Payments: Prohibited Products and Services | [Section Prohibited Products or Services, Subsection Adult](https://support.wix.com/en/article/wix-payments-prohibited-products-and-services) | *See Adyen and Stripe* |
+| Zelle | User Service Agreement | [Prohibited Uses](https://www.zellepay.com/legal/user-service-agreement) | |
+| GoCardless | Restricted Activities | [Page One](https://gocardless.cdn.prismic.io/gocardless/5cdd65f5-a8be-47d2-a0d7-96703568cc20_Restricted+Activities+List+2021+%281%29.pdf) | |
+
+## Game Hosting Services
+| Company/Product | Found In | Section | Comment |
+| :-------------: | :------: | :-----: | :-----: |
+| Game Jolt       | Site Guidelines | [Adult Content](https://gamejolt.com/help/guidelines) | [Porn has been banned after recieving VC funding to build a "social media app for gamers" targint children between 13-16.](https://www.vice.com/en/article/k7w779/indie-hosting-platform-game-jolt-suddenly-bans-porn-games) |
 
 ## Merchant Services
 | Company/Product | Found In | Section | Comment |

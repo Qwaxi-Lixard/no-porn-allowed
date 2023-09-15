@@ -43,6 +43,23 @@ These are sites and services that facilitate the transfer of money between indiv
 |           Wise            |                    Acceptable Use Policy                     |                                               [1.2.1 Regulated or illegal products and services](https://wise.com/us/acceptable-use-policy-inc)                                                |                                                                                                                                                                                                                                                                                                                                                                                     |
 |        Wix Payment        |        Wix Payments: Prohibited Products and Services        |                         [Section Prohibited Products or Services, Subsection Adult](https://support.wix.com/en/article/wix-payments-prohibited-products-and-services)                          |                                                                                                                                                                               *See Adyen and Stripe*                                                                                                                                                                                |
 |           Zelle           |                    User Service Agreement                    |                                                            [Prohibited Uses](https://www.zellepay.com/legal/user-service-agreement)                                                            |                                                                                                                                                                                                                                                                                                                                                                                     |
+| JotForm | Terms of Use | [2. Limitations on User of the Services](https://www.jotform.com/terms) | |
+
+
+### Subscription Service
+
+| Company/Product |     Found In     |                              Section                              |                                                                   Comment                                                                    |
+|:---------------:|:----------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Comradery    | Terms of Service | [User Generated Contributions Part 6](https://comradery.co/p/tos) | *Despite their seemingly leftist window dressing, their terms of service impressively puritan. Banning "lewd, lascivious and filthy" content. <br><br> At least you aren't left guessing?*|
+
+## Social Media / Art Galleries
+| Company/Product |                          Found In                           |          Section           |                                                                                                 Comment                                                                                                  |
+|:---------------:|:-----------------------------------------------------------:|:--------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Facebook     | It's well known and I'm too lazy to look through their TOS. |            N/A             |                                                            No Seriously. Just don't. Posting your porn on a telephone pole is a better idea.                                                             |
+|    Instagram    |                        See Facebook                         |                            |                                                                                                                                                                                                          |
+|     Threads     |                       Still Facebook                        |                            |                                                                                                                                                                                                          |
+|     Tumblr      |                     Community Guidlines                     | Sexually Explicit Material | *For fuck sakes people, stop saying they allow porn. That's fucking wrong. [**__It's never coming back__**](https://www.tumblr.com/photomatt/696629352701493248/why-go-nuts-show-nuts-doesnt-work-in-2022).* |
+
 
 ## Game Hosting Services
 | Company/Product |    Found In     |                        Section                        |                                                                                                           Comment                                                                                                            |
@@ -52,12 +69,7 @@ These are sites and services that facilitate the transfer of money between indiv
 ## Merchant Services
 |    Company/Product    | Found In | Section | Comment |
 |:---------------------:|:--------:|:-------:|:-------:|
-| *Reasearch needed...* |   N/A    |   N/A   |         |
-
-## Subscription Services
-|    Company/Product    | Found In | Section | Comment |
-|:---------------------:|:--------:|:-------:|:-------:|
-| *Reasearch needed...* |   N/A    |   N/A   |         |
+| WooCommerce |  Wordpress User Guidelines    |  Pornography   |     Covered by the same guidelines as Automattic's other product Word Press     |
 
 ## Image Hosting
 *None so far...*

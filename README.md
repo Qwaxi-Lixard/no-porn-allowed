@@ -1,4 +1,4 @@
-# No Porn Allowed (Last Updated May 8th, 2022)
+# No Porn Allowed (Last Updated September 15th, 2023)
 This is a list of sites, services, or tools that ban pornographic or sexual content in any medium (writing, digital/physical illustration, photography, film, or games). While these sites may be usable via a lack of realtime moderation or lax enforcement, you should be extremely causious about becoming dependant on any of these companies.
 
 > For a list of companies, sites, and services that have some allowance for porn, check out ["Yes Porn Allowed"](https://github.com/Qwaxi-Lixard/yes-porn-allowed#yes-porn-allowed).

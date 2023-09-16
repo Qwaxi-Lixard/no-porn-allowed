@@ -48,9 +48,9 @@ These are sites and services that facilitate the transfer of money between indiv
 
 ### Subscription Service
 
-| Company/Product |     Found In     |                              Section                              |                                                                   Comment                                                                    |
-|:---------------:|:----------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------:|
-|    Comradery    | Terms of Service | [User Generated Contributions Part 6](https://comradery.co/p/tos) | *Despite their seemingly leftist window dressing, their terms of service impressively puritan. Banning "lewd, lascivious and filthy" content. <br><br> At least you aren't left guessing?*|
+| Company/Product |     Found In     |                              Section                              |                                                                                  Comment                                                                                  |
+|:---------------:|:----------------:|:-----------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|    Comradery    | Terms of Service | [User Generated Contributions Part 6](https://comradery.co/p/tos) | *Unable to support sexual/erotic/adult content do to Stripe's requirments. <br><br> A high risk payment processor may place too much financial burden on the work co-op.* |
 
 ## Social Media / Art Galleries
 | Company/Product |                          Found In                           |          Section           |                                                                                                 Comment                                                                                                  |

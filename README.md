@@ -72,7 +72,11 @@ These are sites and services that facilitate the transfer of money between indiv
 | WooCommerce |  Wordpress User Guidelines    |  Pornography   |     Covered by the same guidelines as Automattic's other product Word Press     |
 
 ## Image Hosting
-*None so far...*
+Companies that specialize in hosting images.
+
+|    Company/Product    | Found In | Section | Comment |
+|:---------------------:|:--------:|:-------:|:-------:|
+| Imgur |  Terms of Service    |  [Stuff not to do](https://imgur.com/tos)   |     Been meaning to update this ages ago. [But, I totally called it.](https://www.theverge.com/2023/4/20/23691156/imgur-porn-ban-sexually-explicit-content-terms-of-service)     |
 
 ## Email List
 These are sites and services that help automate sending emails to customers and fans.

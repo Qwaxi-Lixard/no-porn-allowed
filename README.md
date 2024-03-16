@@ -69,6 +69,7 @@ These are sites and services that facilitate the transfer of money between indiv
 ## Merchant Services
 |    Company/Product    | Found In | Section | Comment |
 |:---------------------:|:--------:|:-------:|:-------:|
+| Gumroad     | [Adult content on Gumroad](https://help.gumroad.com/article/156-gumroad-and-adult-content) | What is sexually explicit? | [The noose continues to tighten.](https://techcrunch.com/2024/03/15/gumroad-no-longer-allows-most-nsfw-art-leaving-its-adult-creators-panicked/) |
 | WooCommerce |  Wordpress User Guidelines    |  Pornography   |     Covered by the same guidelines as Automattic's other product Word Press     |
 
 ## Image Hosting
